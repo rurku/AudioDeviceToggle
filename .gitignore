@@ -1,0 +1,8 @@
+/Debug
+/Release
+/ipch
+.vs
+*.VC.db
+*.VC.opendb
+*.user
+
